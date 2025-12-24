@@ -39,15 +39,9 @@ Here are a few of my favorite projects:
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/alejandro-marchesini-656426255/)
 - [Email](mailto:alejandro.marchesini12@gmail.com)
-- [Technical Resume](./Resumes/Technical%20Resume%20-%20Alejandro%20Marchesini%20(12_20_25).pdf)
-- [Data Science Resume](./Resumes/Data%20Science%20Resume%20-%20Alejandro%20Marchesini%20(12_20_25).pdf)
 
 ---
 
 
 Thanks for stopping by! If you want to collaborate, chat about data, or just say hi, feel free to reach out. Or send me your best swimming/coding meme.
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejandromarchesini12&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandromarchesini12&layout=compact&theme=radical)
