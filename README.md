@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**Alejandromarchesini12/Alejandromarchesini12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/person-swimming_1f3ca.png" width="40" align="left" />
 
-Here are some ideas to get you started:
+# Hey there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Alejandro, a senior at Biola University, NCAA D2 swimmer, and someone who loves turning data into stories, apps, and sometimes even surprises. If you like creative projects, clever code, or just want to chat about swimming, data, or life, you’re in the right place!
+
+---
+
+---
+
+## 🚀 About Me
+- 🎓 Senior, B.S. in Computer Science @ Biola University
+- 🏊‍♂️ NCAA Division II swimmer (yes, I can code and swim laps—sometimes on the same day)
+- 🤖 Data Science & AI fan (with a dash of software engineering)
+- 🧠 I like building things that blend data, code, and creativity
+- 🌎 Bilingual: English & Spanish
+- 🏆 Always learning, always curious
+
+## 🛠️ Favorite Tools
+ **Languages:** Python, MySQL, C++, JavaScript, TypeScript, HTML, PHP, LaTeX
+ **Data Science:** Jupyter Notebook, Tableau, Pandas, API Data Ingestion, EDA
+ **Web/Software:** React Native, Expo, Figma, Overleaf, Git/GitHub
+ **Other:** Data Viz, Machine Learning, GitHub Actions, Agile
+
+## 📂 Projects
+Here are a few of my favorite projects:
+
+- **FaithFinance:** Mobile app for tracking spending, giving, and income. React Native, TypeScript, Expo.
+- **Thread Scheduling Simulator:** Python tool for visualizing and comparing CPU scheduling algorithms.
+- **Love A Village DB:** MySQL database for NGO volunteer and donation management.
+- **Olympic Swim Analysis:** Tableau dashboard of 50+ years of Olympic swimming data.
+
+## 🌟 Fun Facts
+- I love solving puzzles—whether it’s a tricky dataset, a new coding challenge, or a Rubik’s Cube.
+- I can swim 7,000 yards before breakfast (but don’t ask me to run).
+- Best place for thinking about debugging --> Swimming pool.
+
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/alejandro-marchesini-656426255/)
+- [Email](mailto:alejandro.marchesini12@gmail.com)
+- [Technical Resume](./Resumes/Technical%20Resume%20-%20Alejandro%20Marchesini%20(12_20_25).pdf)
+- [Data Science Resume](./Resumes/Data%20Science%20Resume%20-%20Alejandro%20Marchesini%20(12_20_25).pdf)
+
+---
+
+
+Thanks for stopping by! If you want to collaborate, chat about data, or just say hi, feel free to reach out. Or send me your best swimming/coding meme.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejandromarchesini12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandromarchesini12&layout=compact&theme=radical)
