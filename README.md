@@ -18,7 +18,7 @@ I'm Alejandro, a senior at Biola University, NCAA D2 swimmer, and someone who lo
 - 🏆 Always learning, always curious
 
 ## 🛠️ Favorite Tools
- **Languages:** Python, MySQL, C++, JavaScript, TypeScript, HTML, PHP, LaTeX
+ **Languages:** Python, MySQL, C++, JavaScript, TypeScript, HTML, PHP, LaTex
  **Data Science:** Jupyter Notebook, Tableau, Pandas, API Data Ingestion, EDA
  **Web/Software:** React Native, Expo, Figma, Overleaf, Git/GitHub
  **Other:** Data Viz, Machine Learning, GitHub Actions, Agile
