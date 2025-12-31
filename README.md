@@ -30,6 +30,7 @@ Here are a few of my favorite projects:
 - **Thread Scheduling Simulator:** Python tool for visualizing and comparing CPU scheduling algorithms.
 - **Love A Village DB:** MySQL database for NGO volunteer and donation management.
 - **Olympic Swim Analysis:** Tableau dashboard of 50+ years of Olympic swimming data.
+- **The Culebrita (Snake) Game:** Classic maze-based snake game for Windows, built in C++ with custom graphics—navigate, grow, and avoid obstacles for a high score.
 
 ## 🌟 Fun Facts
 - I love solving puzzles—whether it’s a tricky dataset, a new coding challenge, or a Rubik’s Cube.
