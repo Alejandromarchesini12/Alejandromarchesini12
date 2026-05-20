@@ -52,7 +52,7 @@ Here are a few of my favorite projects:
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/alejandro-marchesini-656426255/)
+- [LinkedIn](https://www.linkedin.com/in/alejandro-marchesini/)
 - [Email](mailto:alejandro.marchesini12@gmail.com)
 
 ---
